@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aritra Ghosh"
+  name             : "Jianli Wei"
   avatar           : "profile.jpg"
-  bio              : "Machine Learning Researcher, Research Scientist, Meta"
-  location         : "Seattle, WA"
+  bio              : "Graduate Research Assistant, Photogrammetry Computer Vision Lab, The Ohio State University"
+  location         : "Columbus, OH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=d5vFQy0AAAAJ&hl=en"
-  email            : arighosh [at] meta [dot] com
+  googlescholar    : "https://scholar.google.com/citations?user=_Oq_-Z4AAAAJ&hl=en"
+  email            : wei [dot] 909 [at] osu [dot] edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
