@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +7,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Education
+======
+* Ph.D in Computer Science, University of Massachusetts, September 2017- August 2022
+  * Advisor: Professor Andrew Lan
+* M.S. in Electrical Engineering, Indian Institute of Science, August 2012- July 2014
+  * Advisor: Professor P.S. Sastry  
 
 Work experience
 ======
@@ -28,14 +34,8 @@ Work experience
 * Software Engineer 2, July 2014 - August 2017
   * Microsoft Corporation, Bangalore, India
   * Selection and Relevance Algorithms in Sponsored Search (Bing Ads/ Microsoft Advertising)
-  * Supervisor: Rahul Agrawal
+  * Supervisor: Rahul Agrawa
 
-Education
-======
-* Ph.D in Computer Science, University of Massachusetts, September 2017- August 2022
-  * Advisor: Professor Andrew Lan
-* M.S. in Electrical Engineering, Indian Institute of Science, August 2012- July 2014
-  * Advisor: Professor P.S. Sastry  
 
 Awards
 ======
