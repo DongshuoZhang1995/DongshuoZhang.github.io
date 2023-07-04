@@ -12,9 +12,9 @@ I am a Graduate Research Assistant with Photogrammetry Computer Vision Lab ([PCV
 Before my PhD, I completed my M.S. program in Electrical Computer Engineering, The Ohio State University. Even before that, I had amazing years at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), where I worked on electric information analysis and digital signal processing. I have been fortunate to do research under guidance of Prof. [Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15).
 
 **Research Interest**
-  * Meta Learning, Differentiable Optimization Layers, Bi-level Optimization
-  * Sequential Models, Reinforcement Learning, Inverse Reinforcement Learning
-  * Computational Advertising, Computer Vision, NLP, AI for Social Goods
+  * Computer Vision, Autonomous Driving, Generative AI
+  * Reinforcement Learning, Large Language Models, Diffusion Models
+  * Machine Learning, Deep Learning, Partern Recognition, Image Processing
 
 **Updates**
 <div class="posts-wrapper">
