@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Graduate Research Assistant with Photogrammetry Computer Vision Lab ([PCVlab](https://u.osu.edu/pcvlab/)). I passed PhD Candidate exam in August, 2022. Currently, I'm pursuing my Ph.D. in Electrical Computer Engineering Department from The Ohio State University. I have worked on several research projects with [Ford Motor Company](https://www.ford.com/) and [UbiHere Inc.](https://ubihere.com/), which have allowed me to put what I have learned in the classroom into use in a practical sense. I also have a patent titled ‘Systems and Methods for Hypersonic Aerial Platform Geopositioning’, which is in review now.
+I am a Graduate Research Assistant with [Photogrammetry Computer Vision Lab](https://u.osu.edu/pcvlab/) under guidance of [Prof. Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15). I passed PhD Candidate exam in August, 2022. Currently, I'm pursuing my Ph.D. in Electrical Computer Engineering Department from The Ohio State University. I have worked on several research projects with [Ford Motor Company](https://www.ford.com/) and [UbiHere Inc.](https://ubihere.com/), which have allowed me to put what I have learned in the classroom into use in a practical sense. I also have a patent titled ‘Systems and Methods for Hypersonic Aerial Platform Geopositioning’, which is in review now.
 
-Before my PhD, I completed my M.S. program in Electrical Computer Engineering, The Ohio State University. Even before that, I had amazing years at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), where I worked on electric information analysis and digital signal processing. I have been fortunate to do research under guidance of Prof. [Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15).
+Before my PhD, I completed my M.S. program in Electrical Computer Engineering, The Ohio State University. Even before that, I had amazing years at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), where I worked on electric information analysis and digital signal processing.
 
 **Research Interest**
   * Computer Vision, Autonomous Driving, Generative AI
