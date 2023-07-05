@@ -17,7 +17,7 @@ Education
   * Advisor: Professor Wladimiro Villarroel
 * B.E. (Bachelor of Engineering) in Electronic Information Engineering, University of Electronic Science and Technology of China, September 2014 - June 2017
 
-Research experience
+Research Projects
 ======
 * Vision-based Unmanned Aerial System (UAS) Geotracking [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967102)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)]
   * Reduced UAS reliance on Global Positioning System, which can be jammed and suffer from multipath problems
@@ -53,10 +53,10 @@ Awards
 * N.R Khambhati  Memorial Medal for Best Student Award in SSA [Department of Electrical Engineering, Indian Institute of Science](http://www.ee.iisc.ac.in/), July 2014.
 
 
-Skills
+Skills & Qualifications
 ======
-* Python, C, Java, C#, Matlab, R
-* PyTorch, Tensorflow
+* Python, Matlab, C++, R
+* PyTorch, TensorFlow, OpenCV, Pandas, SciPy, scikit-learn
 
 
 Publications
