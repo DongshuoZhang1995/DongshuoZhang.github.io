@@ -11,9 +11,11 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical & Computer Engineering, The Ohio State University, January 2020 - December 2023
+  * Dissertation title: Geopositioning Multiple Autonomous Platforms using Deep Learning and Photogrammetry
   * Advisor: Professor [Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15)
 * M.S. in Electrical & Computer Engineering, The Ohio State University, August 2017 - May 2019
   * Advisor: Professor Wladimiro Villarroel
+* B.E. (Bachelor of Engineering) in Electronic Information Engineering, University of Electronic Science and Technology of China, September 2014 - June 2017
 
 Work experience
 ======
