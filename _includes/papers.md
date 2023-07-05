@@ -1,3 +1,8 @@
+* Journal
+ * **A Visual Odometry Pipeline for Real-Time UAS Geopositioning (in review)**
+  : **Jianli Wei**, Alper Yilmaz
+  : The Institute of Navigation, 2023
+
 * Conference
   * **[A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_Oq_-Z4AAAAJ&citation_for_view=_Oq_-Z4AAAAJ:qjMakFHDy7sC)**
   : **Jianli Wei**, Deniz Karakay, Alper Yilmaz
