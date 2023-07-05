@@ -33,6 +33,7 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
             <li><strong>Apr 2021: </strong>passed PhD Qualification Examination.
             </li>
             <li><strong>Jan 2020: </strong> joined Photogrammetry Computer Vision lab for Ph.D. in ECE department, OSU.
+            </li>
         </ul>
     </div>
 </div>
