@@ -31,7 +31,7 @@ Research Projects
   * Let the UAS fly in the real world to recognize the landmarks and take action according to the learned policy
   * Proposed a novel end-to-end UAS navigation framework for long-range vision based navigation in the real world. Experiments demonstrated that the UAS can navigate itself to the destination hundreds meters away from a random selected starting point with following the shortest path
 
-* Object Detection and Height Estimation using Deep Learning (Funded by Ford Motor Company) [[`paper`](https://isprs-archives.copernicus.org/articles/XLIII-B2-2021/557/2021/isprs-archives-XLIII-B2-2021-557-2021.html)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)]
+* Object Detection and Height Estimation using Deep Learning [[`paper`](https://isprs-archives.copernicus.org/articles/XLIII-B2-2021/557/2021/isprs-archives-XLIII-B2-2021-557-2021.html)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)]
   * Developed object height estimation algorithm using vehicle-mounted monocular vision system and deep learning
   * Proposed an end-to-end pipeline consisting of the choice from a selection of advanced object detectors and photogrammetry module doing depth estimation, 2D to 3D backprojection and object height decomposition
   * Proposed MOHE-Net detecting and estimating object (over 80 classes) height. Estimated a 183 centimeters tall person within an average error of 5.09 centimeters, around 2.8%
