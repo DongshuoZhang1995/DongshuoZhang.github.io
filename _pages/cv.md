@@ -25,32 +25,22 @@ Research Projects
   * Constructed the pipeline consisting of an off-line fast geospatial Quadtree data retrieval, a selection of feature detection and matching schemes, and attitude-control mechanism guaranteeing the scalability of flight region
   * Achieved realtime UAS geotracking accuracy by 3.39 meters in average and 5.38 meters in maximum
 
-* Research Intern, Machine Learning, Summer 2019
-  * Adobe Research, San Jose, CA, USA
-  * Optimal Bidding Strategy in Real-time Bidding System
-  * Supervisor: Dr. Vishy Swaminathan, Dr. Saayan Mitra, Dr. Somdeb Sarkhel
+* UAS Navigation in Real World using Reinforcement Learning (RL) [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967103)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)]
+  * Inspired by human’s instinct: environment understanding and landmark recognition, the team enabled the UAS self-navigation via recognizing its surrounding environment using its embedded vision sensor
+  * Trained the agent in reinforcement learning framework to interactively learn the navigation policy and familiarize itself using images from vision sensor in an designed UASNAV environmen
+  * Let the UAS fly in the real world to recognize the landmarks and take action according to the learned policy
+  * Proposed a novel end-to-end UAS navigation framework for long-range vision based navigation in the real world. Experiments demonstrated that the UAS can navigate itself to the destination hundreds meters away from a random selected starting point with following the shortest path
 
-* Research Intern, Data Science, Summer 2018
-  * Adobe Research, San Jose, CA, USA
-  * Bid landscape forecasting in Real-time Bidding System
-  * Supervisor: Dr. Vishy Swaminathan, Dr. Saayan Mitra, Dr. Somdeb Sarkhel
+* Object Detection and Height Estimation using Deep Learning (Funded by Ford Motor Company) [[`paper`](https://isprs-archives.copernicus.org/articles/XLIII-B2-2021/557/2021/isprs-archives-XLIII-B2-2021-557-2021.html)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)]
+  * Developed object height estimation algorithm using vehicle-mounted monocular vision system and deep learning
+  * Proposed an end-to-end pipeline consisting of the choice from a selection of advanced object detectors and photogrammetry module doing depth estimation, 2D to 3D backprojection and object height decomposition
+  * Proposed MOHE-Net detecting and estimating object (over 80 classes) height. Estimated a 183 centimeters tall person within an average error of 5.09 centimeters, around 2.8%
 
-* Software Engineer 2, July 2014 - August 2017
-  * Microsoft Corporation, Bangalore, India
-  * Selection and Relevance Algorithms in Sponsored Search (Bing Ads/ Microsoft Advertising)
-  * Supervisor: Rahul Agrawa
-
-
-Awards
-======
-* Won the grand prize in [2021 NAEP Automated Scoring Challenge](https://github.com/NAEP-AS-Challenge/info/blob/main/results.md), Jan 2022. [[Press Release](https://nces.ed.gov/whatsnew/press_releases/1_21_2022.asp)]
-* [2021 Duolingo Dissertation Award](https://blog.duolingo.com/tag/duolingo-english-test/), November 2021.
-* Best Student Paper Award at [IEEE BigData Conference](https://bigdataieee.org/BigData2020/), December 2020.
-* Winner of Task 4 [NeurIPS 2020 Education Challenge](https://eedi.com/projects/neurips-education-challenge), November 2020.
-* Student Travel Grant Award in [KDD 2020](https://www.kdd.org/kdd2020/), July, 2020.
-* Student Travel Grant Award in [SDM 2020](https://www.siam.org/conferences/cm/conference/sdm20), February, 2020.
-* [Microsoft BingAds Bangalore](https://www.microsoft.com/en-in/msidc/bangalore-campus.aspx) Q3 Innovation Award Winner, FY 15-16. 
-* N.R Khambhati  Memorial Medal for Best Student Award in SSA [Department of Electrical Engineering, Indian Institute of Science](http://www.ee.iisc.ac.in/), July 2014.
+* Artificial Intelligence Technique for Trajectory Estimation of Maritime Vessel [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9639595)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)]
+  * Generated georeferenced tracks of maritime vessel traffic based on the data recorded from a single electro-optical camera imaging the traffic from a moving platform
+  * Localized target vessel among several similar vessels in image coordinates with tracking by detection strategy
+  * Defined the geometric relation between GPS-based spherical coordinates of latitude and longitude in the world frame, the local camera centered coordinates and the local image coordinates
+  * Geotracked target vessel in video and retrieved its geoposition in the accuracy by 15.26 meters in average
 
 
 Skills & Qualifications
@@ -63,8 +53,6 @@ Publications
 ======
 {% include papers.md %}
 
-Service
+Patent
 ======
-* Program Committee Member: AAAI 2021-2022, IJCAI 2021, WACV 2021-2022
-* Conference Volunteer: ICML 2020-2021, KDD 2020, NeurIPS 2020
-
+* System and Method for Hypersonic Aerial Platform Geopositioning (in review)
