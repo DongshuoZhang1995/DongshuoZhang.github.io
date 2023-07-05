@@ -10,10 +10,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Massachusetts, September 2017- August 2022
-  * Advisor: Professor Andrew Lan
-* M.S. in Electrical Engineering, Indian Institute of Science, August 2012- July 2014
-  * Advisor: Professor P.S. Sastry  
+* Ph.D in Electrical & Computer Engineering, The Ohio State University, January 2020 - December 2023
+  * Advisor: Professor [Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15)
+* M.S. in Electrical & Computer Engineering, The Ohio State University, August 2017 - May 2019
+  * Advisor: Professor Wladimiro Villarroel
 
 Work experience
 ======
