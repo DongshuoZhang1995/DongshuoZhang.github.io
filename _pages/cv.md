@@ -49,10 +49,12 @@ Skills & Qualifications
 * PyTorch, TensorFlow, OpenCV, Pandas, SciPy, scikit-learn
 
 
+Patent
+======
+* System and Method for Hypersonic Aerial Platform Geopositioning (in review)
+
+
 Publications
 ======
 {% include papers.md %}
 
-Patent
-======
-* System and Method for Hypersonic Aerial Platform Geopositioning (in review)
