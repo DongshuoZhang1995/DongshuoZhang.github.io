@@ -19,7 +19,7 @@ Education
 
 Research Projects
 ======
-* Vision-based Unmanned Aerial System (UAS) Geotracking [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967102)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)]
+* Vision-based Unmanned Aerial System (UAS) Geotracking [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967102)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)] [[`video`](https://youtu.be/npc0JHztEfA)] 
   * Reduced UAS reliance on Global Positioning System, which can be jammed and suffer from multipath problems
   * Proposed a real-time pipeline alternative to the GPS functionality using UAS embedded vision system
   * Constructed the pipeline consisting of an off-line fast geospatial Quadtree data retrieval, a selection of feature detection and matching schemes, and attitude-control mechanism guaranteeing the scalability of flight region
@@ -36,7 +36,7 @@ Research Projects
   * Proposed an end-to-end pipeline consisting of the choice from a selection of advanced object detectors and photogrammetry module doing depth estimation, 2D to 3D backprojection and object height decomposition
   * Proposed MOHE-Net detecting and estimating object (over 80 classes) height. Estimated a 183 centimeters tall person within an average error of 5.09 centimeters, around 2.8%
 
-* Artificial Intelligence Technique for Trajectory Estimation of Maritime Vessel [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9639595)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)]
+* Artificial Intelligence Technique for Trajectory Estimation of Maritime Vessel [[`paper`](https://arxiv.org/abs/2109.01235)] [[`video`](https://youtu.be/0CrNUJH9Ueg)]
   * Generated georeferenced tracks of maritime vessel traffic based on the data recorded from a single electro-optical camera imaging the traffic from a moving platform
   * Localized target vessel among several similar vessels in image coordinates with tracking by detection strategy
   * Defined the geometric relation between GPS-based spherical coordinates of latitude and longitude in the world frame, the local camera centered coordinates and the local image coordinates
