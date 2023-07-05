@@ -26,7 +26,7 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
             </li>
             <li><strong>Dec 2022: </strong>will defend my PhD thesis in Dec 2023.
             </li>
-            <li><strong>Aug 2022: </strong>completed vision-based UAS geopositioning project funded by Ubihere Inc.
+            <li><strong>Aug 2022: </strong>completed vision-based UAS geopositioning project funded by UbiHere Inc.
             </li>
             <li><strong>Dec 2021: </strong>gave final presentation of the project funded by Ford Motor Company.
             </li>
