@@ -19,7 +19,7 @@ Education
 
 Research experience
 ======
-* Vision-based Unmanned Aerial System (UAS) Geotracking [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967102) [link]()
+* Vision-based Unmanned Aerial System (UAS) Geotracking [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967102)] [[`link`]()]
   * Reduced UAS reliance on Global Positioning System, which can be jammed and suffer from multipath problems
   * Proposed a real-time pipeline alternative to the GPS functionality using UAS embedded vision system
   * Constructed the pipeline consisting of an off-line fast geospatial Quadtree data retrieval, a selection of feature detection and matching schemes, and attitude-control mechanism guaranteeing the scalability of flight region
