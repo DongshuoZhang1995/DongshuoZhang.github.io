@@ -12,8 +12,8 @@ I am a Graduate Research Assistant with [Photogrammetry Computer Vision Lab](htt
 Before my PhD, I completed my M.S. program in Electrical Computer Engineering, The Ohio State University. Even before that, I had amazing years at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), where I worked on electric information analysis and digital signal processing.
 
 **Research Interest**
-  * Computer Vision, Deep Learning, Reinforcement Learning
-  * Object Detection, Tracking, Segmentation, Image Registeration
+  * Deep Learning, Machine Learning, Reinforcement Learning
+  * Object Detection & Tracking, Segmentation, Optical Flow, Image Registeration
   * Aerial/Satellite Photogrammetry, Unmanned Aerial System
 
 **Updates**
