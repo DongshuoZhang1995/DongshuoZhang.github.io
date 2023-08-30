@@ -19,7 +19,7 @@ Education
 
 Research Projects
 ======
-* Vision-based Unmanned Aerial System (UAS) Geotracking [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967102)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)] [[`video`](https://youtu.be/npc0JHztEfA)] 
+* Autonomous positioning and tracking of aerial vehicles using Geographic AI [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967102)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)] [[`video`](https://youtu.be/npc0JHztEfA)] 
   * Reduced UAS reliance on Global Positioning System, which can be jammed and suffer from multipath problems
   * Proposed a real-time pipeline alternative to the GPS functionality using UAS embedded vision system
   * Constructed the pipeline consisting of an off-line fast geospatial Quadtree data retrieval, a selection of feature detection and matching schemes, and attitude-control mechanism guaranteeing the scalability of flight region
@@ -42,11 +42,30 @@ Research Projects
   * Defined the geometric relation between GPS-based spherical coordinates of latitude and longitude in the world frame, the local camera centered coordinates and the local image coordinates
   * Geotracked target vessel in video and retrieved its geoposition in the accuracy by 15.26 meters in average
 
+* Video Background and Foreground Segmentation using Machine Learning [[`paper`](https://isprs-archives.copernicus.org/articles/XLIII-B2-2021/69/2021/)] [[`video`](https://isprs2021.stream-up.tv/media-202-mbs-net-a-moving-camera-background-subtraction-network-for-autonomous-driving)]
+  * Converted moving camera object detection task to foreground segmentation. Segmented objects not belonging to changing background in video setting
+  * Trained a developed neural network in an end-to-end manner and introduced Conditional Random Fields as a temporal regularization by modeling interactions between previous frames and current CNNs output
+  * Applied Focal Loss to assign all training samples dynamic weights to enforce more focus on hard examples
+  * Proposed MBS-Net that achieves 97.53\% Mean IoU on background and 76.06\% on foreground on ApolloScape Datasets
+
+
+Team Management Experience
+======
+* Vision-based Unmanned Aerial System (UAS) Geopositioning & Tracking
+  * Led junior researcher converting UAS geopositioning pipeline from Python to C++ and deployed it to Jetson Orin. Accelerated inference speed from 15 fps to 35 fps, 133\% faster
+  * Provided guidance for building up virtual environment with Unity game engine. Demonstrated UAS geopositioning pipeline to be working in virtual environment in an online manner
+* Real World UAS Navigation using RL
+  * Partnered with graduated research team to develop UAS navigation in real world using Reinforcement Learning
+  * Proposed a novel end-to-end UAS navigation framework for long-range vision based navigation in the real world
+  * Managed UAS data collection and flight results analysis. Demonstrated that the UAS can navigate itself to the destination hundreds meters away from a random selected starting point with following the shortest path
+
 
 Skills & Qualifications
 ======
-* Python, Matlab, C++, R
-* PyTorch, TensorFlow, OpenCV, Pandas, SciPy, scikit-learn
+* Areas of Research: Deep Learning, Computer Vision, Machine Learning, Reinforcement Learning
+* Programming Languages: Python, Matlab, Git, R
+* Frameworks: PyTorch, OpenCV, Numpy, matplotlib, Pandas, SciPy, scikit-learn, Docker, ArcGis pro
+* Coursework: Photogrammetric Computer Vision, Pattern Recognition, VideoGrammetry, Optimization, Image Processing, Algorithms, Intro Time Series Analysis, Project Management
 
 
 Patent
