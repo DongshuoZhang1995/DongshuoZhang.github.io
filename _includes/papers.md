@@ -1,6 +1,6 @@
 * JOURNAL
    * **[A Visual Odometry Pipeline for Real-Time UAS Geopositioning](https://www.mdpi.com/2504-446X/7/9/569)**
-   : **Jianli Wei**, Alper Yilmaz, Drones 2023, 7, 569. https://doi.org/10.3390/drones7090569
+   : **Jianli Wei**, Alper Yilmaz, Drones 2023, 7, 569.
 
 * CONFERENCE
   * **[A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_Oq_-Z4AAAAJ&citation_for_view=_Oq_-Z4AAAAJ:qjMakFHDy7sC)**
