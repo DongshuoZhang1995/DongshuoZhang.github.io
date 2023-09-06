@@ -19,7 +19,7 @@ Education
 
 Research Projects
 ======
-* Autonomous positioning and tracking of aerial vehicles using Geographic AI [[`paper`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967102)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)] [[`video`](https://youtu.be/npc0JHztEfA)] 
+* Autonomous positioning and tracking of aerial vehicles using Geographic AI [[`paper1`](https://doi.org/10.3390/drones7090569)][[`paper2`](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967102)] [[`link`](https://github.com/JianliWei1995/Vision-based-UAS-Geotraking-2022)] [[`video`](https://youtu.be/npc0JHztEfA)] 
   * Reduced UAS reliance on Global Positioning System, which can be jammed and suffer from multipath problems
   * Proposed a real-time pipeline alternative to the GPS functionality using UAS embedded vision system
   * Constructed the pipeline consisting of an off-line fast geospatial Quadtree data retrieval, a selection of feature detection and matching schemes, and attitude-control mechanism guaranteeing the scalability of flight region
