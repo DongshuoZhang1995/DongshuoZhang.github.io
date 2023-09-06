@@ -17,7 +17,8 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
   * Aerial/Satellite Photogrammetry, Unmanned Aerial System
 
 **News**
-<strong>September 2023: one MDPI Drones Jounal paper is accepted on [UAS visual geopositioning](https://doi.org/10.3390/drones7090569)
+  *<strong>September 2023: one MDPI Drones Jounal paper is accepted on [UAS visual geopositioning](https://doi.org/10.3390/drones7090569)
+
 <strong>June 2023: open to work NOW.
 <strong>May 2023: will defend my PhD thesis in Dec 2023.
     </li>
