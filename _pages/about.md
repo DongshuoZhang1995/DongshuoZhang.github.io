@@ -16,6 +16,12 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
   * Object Detection & Tracking, Segmentation, Optical Flow, Image Registeration
   * Aerial/Satellite Photogrammetry, Unmanned Aerial System
 
+**Research Interest**
+  * Deep Learning, Machine Learning, Reinforcement Learning
+  * Object Detection & Tracking, Segmentation, Optical Flow, Image Registeration
+  * Aerial/Satellite Photogrammetry, Unmanned Aerial System
+
+
 **News**
   * September 2023: one MDPI Drones Jounal paper is accepted on [UAS visual geopositioning](https://doi.org/10.3390/drones7090569)
   * June 2023: open to work NOW.
