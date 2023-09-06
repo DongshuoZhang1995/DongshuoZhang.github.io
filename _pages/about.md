@@ -17,17 +17,11 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
   * Aerial/Satellite Photogrammetry, Unmanned Aerial System
 
 **News**
-  *<strong>September 2023: one MDPI Drones Jounal paper is accepted on [UAS visual geopositioning](https://doi.org/10.3390/drones7090569)
-
-<strong>June 2023: open to work NOW.
-<strong>May 2023: will defend my PhD thesis in Dec 2023.
-    </li>
-    <li>Dec 2022: complete vision-based UAS geopositioning project funded by UbiHere Inc.
-    </li>
-    <li>Aug 2022: pass PhD Cadidacy Examination.
-    </li>
-    <li>Dec 2021: give final presentation of the project funded by Ford Motor Company.
-    </li>
-    <li>Apr 2021: pass PhD Qualification Examination.
-    </li>
-    <li>Jan 2020: join Photogrammetry Computer Vision lab for Ph.D. in ECE department, OSU.
+  * September 2023: one MDPI Drones Jounal paper is accepted on [UAS visual geopositioning](https://doi.org/10.3390/drones7090569)
+  * June 2023: open to work NOW.
+  * May 2023: will defend my PhD thesis in Dec 2023.
+  * Dec 2022: complete vision-based UAS geopositioning project funded by UbiHere Inc.
+  * Aug 2022: pass PhD Cadidacy Examination.
+  * Dec 2021: give final presentation of the project funded by Ford Motor Company.
+  * Apr 2021: pass PhD Qualification Examination.
+  * Jan 2020: join Photogrammetry Computer Vision lab for Ph.D. in ECE department, OSU.
