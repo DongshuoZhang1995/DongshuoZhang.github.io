@@ -19,7 +19,7 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
 
 **News**
   * **09/2023**: One MDPI Drones Jounal paper is accepted on [UAS visual geopositioning](https://doi.org/10.3390/drones7090569)
-  * 06/2023: Open to work NOW.
+  * **06/2023**: Open to work NOW.
   * 05/2023: Will defend my PhD thesis in Dec 2023.
   * 12/2022: Womplete vision-based UAS geopositioning project funded by UbiHere Inc.
   * 08/2022: Pass PhD Cadidacy Examination.
