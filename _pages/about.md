@@ -20,7 +20,9 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
 <div class="posts-wrapper">
     <div class="post" style="width:800px;height:200px;border:1px solid;overflow:auto">
         <ul class="news">
-            <li><strong>June 2023: </strong>Open to work NOW.
+            <li><strong>September 2023: </strong>one MDPI Drones Jounal paper is accepted on [UAS visual geopositioning](https://doi.org/10.3390/drones7090569)
+            </li>
+            <li><strong>June 2023: </strong>open to work NOW.
             </li>
             <li><strong>May 2023: </strong>will defend my PhD thesis in Dec 2023.
             </li>
