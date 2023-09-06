@@ -20,7 +20,8 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
 <div class="posts-wrapper">
     <div class="post" style="width:800px;height:200px;border:1px solid;overflow:auto">
         <ul class="news">
-            <li><strong>September 2023: </strong>one MDPI Drones Jounal paper is accepted on [UAS visual geopositioning](https://doi.org/10.3390/drones7090569)
+            <li><strong>September 2023: </strong>one MDPI Drones Jounal paper is accepted on [PCVlab](https://u.osu.edu/pcvlab/)
+              [UAS visual geopositioning](https://doi.org/10.3390/drones7090569)
             </li>
             <li><strong>June 2023: </strong>open to work NOW.
             </li>
