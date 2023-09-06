@@ -24,14 +24,14 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
     </li>
     <li><strong>May 2023: </strong>will defend my PhD thesis in Dec 2023.
     </li>
-    <li><strong>Dec 2022: </strong>completed vision-based UAS geopositioning project funded by UbiHere Inc.
+    <li>Dec 2022: </strong>completed vision-based UAS geopositioning project funded by UbiHere Inc.
     </li>
-    <li><strong>Aug 2022: </strong>passed PhD Cadidacy Examination.
+    <li>Aug 2022: </strong>passed PhD Cadidacy Examination.
     </li>
-    <li><strong>Dec 2021: </strong>gave final presentation of the project funded by Ford Motor Company.
+    <li>Dec 2021: </strong>gave final presentation of the project funded by Ford Motor Company.
     </li>
-    <li><strong>Apr 2021: </strong>passed PhD Qualification Examination.
+    <li>Apr 2021: </strong>passed PhD Qualification Examination.
     </li>
-    <li><strong>Jan 2020: </strong> joined Photogrammetry Computer Vision lab for Ph.D. in ECE department, OSU.
+    <li>Jan 2020: </strong> joined Photogrammetry Computer Vision lab for Ph.D. in ECE department, OSU.
     </li>
 </ul>
