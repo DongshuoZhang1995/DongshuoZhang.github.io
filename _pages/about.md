@@ -12,7 +12,7 @@ Throughout my academic journey, I have served as a dedicated Graduate Research A
 Before my PhD, I completed my M.S. program in Electrical Computer Engineering, The Ohio State University. Even before that, I had amazing years at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), where I worked on electric information analysis and digital signal processing.
 
 **Research Interest**
-  * Deep Learning, Machine Learning, Reinforcement Learning
+  * Deep Learning, Machine Learning, Image Processing
   * Object Detection & Tracking, Segmentation, Optical Flow, Image Registeration
   * Aerial/Satellite Photogrammetry, Unmanned Aerial System
 
