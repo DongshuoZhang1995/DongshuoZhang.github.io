@@ -52,7 +52,7 @@ Research Projects
 Team Management Experience
 ======
 * Vision-based Unmanned Aerial System (UAS) Geopositioning & Tracking
-  * Led junior researcher converting UAS geopositioning pipeline from Python to C++ and deployed it to Jetson Orin. Accelerated inference speed from 15 fps to 35 fps, 133\% faster
+  * Led junior researcher converting UAS geopositioning pipeline from Python to C++ and deployed it to Jetson Orin. Accelerated inference speed from 15 fps to 35 fps, 133% faster
   * Provided guidance for building up virtual environment with Unity game engine. Demonstrated UAS geopositioning pipeline to be working in virtual environment in an online manner
 * Real World UAS Navigation using RL
   * Partnered with graduated research team to develop UAS navigation in real world using Reinforcement Learning
@@ -62,8 +62,8 @@ Team Management Experience
 
 Skills & Qualifications
 ======
-* Areas of Research: Deep Learning, Computer Vision, Machine Learning, Reinforcement Learning
-* Programming Languages: Python, Matlab, Git, R
+* Areas of Research: Deep Learning, Computer Vision, Machine Learning
+* Programming Languages: Python, Matlab, Git
 * Frameworks: PyTorch, OpenCV, Numpy, matplotlib, Pandas, SciPy, scikit-learn, Docker, ArcGis pro
 * Coursework: Photogrammetric Computer Vision, Pattern Recognition, VideoGrammetry, Optimization, Image Processing, Algorithms, Intro Time Series Analysis, Project Management
 
