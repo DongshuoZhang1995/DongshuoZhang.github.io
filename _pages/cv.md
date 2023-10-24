@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe id='cv' src="https://docs.google.com/gview?url=http://arthur-qiu.github.io/files/cv_haonan.pdf&embedded=true" style="width:800px; height:1200px;" frameborder="0"></iframe>
+<iframe id='cv' src="https://github.com/JianliWei1995/JianliWei1995.github.io/blob/master/files/JianliWei_Resume%40OSU.pdf" style="width:800px; height:1200px;" frameborder="0"></iframe>
 
 <!--
 Education
