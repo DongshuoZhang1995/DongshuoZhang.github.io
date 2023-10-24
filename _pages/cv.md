@@ -8,6 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe id='cv' src="https://docs.google.com/gview?url=http://arthur-qiu.github.io/files/cv_haonan.pdf&embedded=true" style="width:800px; height:1200px;" frameborder="0"></iframe>
+
+<!--
 Education
 ======
 * Ph.D in Electrical & Computer Engineering, The Ohio State University, January 2020 - December 2023
@@ -76,4 +79,4 @@ Patent
 Publications
 ======
 {% include papers.md %}
-
+-->
