@@ -18,8 +18,8 @@ Before my PhD, I completed my M.S. program in Electrical Computer Engineering, T
 
 
 **News**
-  * **06/2023**: Open to work NOW.
-  * **11/2023**: Completed my Ph.D. dissertation entitled `Enabling Platform Agnostic Situational Awareness using Machine Learning and View Geometry`
+  * **01/2024**: Join Wexner Medical Center in The Ohio State University as a Research Scientist.
+  * **11/2023**: Complete my Ph.D. dissertation entitled `Enabling Platform Agnostic Situational Awareness using Machine Learning and View Geometry`.
   * 09/2023: One MDPI Drones Jounal paper is accepted on [UAS autonomous geopositioning and tracking](https://jianliwei1995.github.io/projects/UASGeopositioning)
   * 06/2023: Open to work NOW.
   * 05/2023: Will defend my PhD thesis in Dec 2023.
