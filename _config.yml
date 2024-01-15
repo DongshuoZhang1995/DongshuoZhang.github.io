@@ -11,9 +11,9 @@ title                    : "Dongshuo Zhang"
 title_separator          : "-"
 name                     : &name "Dongshuo Zhang"
 description              : &description "Ph.D., Research Scientist in Radiology Department, Wexner Medical Center"
-url                      : https://DongshuoZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dongshuozhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DongshuoZhang.github.io"
+repository               : "dongshuozhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
